@@ -254,13 +254,13 @@ Tarayıcıda açın: **http://localhost:5000**
 
 **Ana Sayfa:**
 
-![Web Arayüzü](https://raw.githubusercontent.com/YusufGK41/wildfireDetection/main/screenshots/web_interface.png)
+![Web Arayüzü](screenshots/web_interface.png)
 
 **Tahmin Sonuçları:**
 
-![Normal Orman - Yangın Yok](https://raw.githubusercontent.com/YusufGK41/wildfireDetection/main/screenshots/no_fire.png)
+![Normal Orman - Yangın Yok](screenshots/no_fire.png)
 
-![Yangın Tespiti](https://raw.githubusercontent.com/YusufGK41/wildfireDetection/main/screenshots/fire_detected.png)
+![Yangın Tespiti](screenshots/fire_detected.png)
 
 ---
 
